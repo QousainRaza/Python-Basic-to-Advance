@@ -88,11 +88,4 @@ It’s designed for **students, self-learners, and professionals** who want to s
 
 ---
 
-## 💻 How to Use This Repository
-
-✨ Follow these steps to begin your Python journey:
-
-1. 🧠 **Clone this repository**
-   ```bash
-   git clone https://github.com/<your-username>/Python-Basic-to-Advance.git
-   cd Python-Basic-to-Advance
+## 💻 If you like give star ✨, Thank You
