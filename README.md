@@ -72,10 +72,8 @@ It’s designed for **students, self-learners, and professionals** who want to s
 </details>
 
 <details>
-<summary><b>📦 Modules, Packages, and Files</b></summary>
-
-- [Importing Modules and Packages](#)
-- [Overview of the Standard Library](#)
+<summary><b>📦Files</b></summary>
+   
 - [File Operations in Python](#)
 - [Working with File Paths](#)
 
